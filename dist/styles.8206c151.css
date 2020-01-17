@@ -1,0 +1,13 @@
+body {
+  background: firebrick;
+}
+
+.headline.active {
+  color: white;
+}
+
+.headline {
+  color: grey;
+}
+
+/*# sourceMappingURL=/styles.8206c151.css.map */
