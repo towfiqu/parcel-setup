@@ -1,1 +1,0 @@
-{"version":3,"sources":["sass\\styles.scss"],"names":[],"mappings":"AAAA;EACE;;;AAGF;EACE;;;AAGF;EACE","file":"styles.8206c151.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n  background: firebrick;\r\n}\r\n\r\n.headline.active {\r\n  color: white;\r\n}\r\n\r\n.headline {\r\n  color: grey;\r\n}\r\n"]}
